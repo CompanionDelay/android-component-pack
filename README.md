@@ -1,2 +1,2 @@
 # android-component-pack
-A Link to android component packs
+A compiled list of links to every android component pack developed by the team.
